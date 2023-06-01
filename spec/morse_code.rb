@@ -13,11 +13,11 @@ end
 # returns a word from morse characters
 def decode_word(word)
   word_chars = word.split
-  word_Array = []
+  word_array = []
   word_chars.each do |symbol|
-    word_Array.push(decode_char(symbol))
+    word_array.push(decode_char(symbol))
   end
-  word_Array.join
+  word_array.join
 end
 
 # returns a sentence with words seperated by three spaces
