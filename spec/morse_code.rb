@@ -6,7 +6,7 @@ MORSE = { 'A' => '.-', 'B' => '-...', 'C' => '-.-.', 'D' => '-..', 'E' => '.', '
 # returns from symbol to chararacter
 def decode_char(symbol)
   MORSE.each do |key, value|
-    return key if value === symbol
+    return key if value == symbol
   end
 end
 
