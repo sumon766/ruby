@@ -62,15 +62,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Decode a Morse code message]** is a ruby code about decoding morse code messages
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 
 <details>
@@ -83,8 +77,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Decode characters]**
 - **[Display decoded words]**
@@ -105,8 +97,6 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -206,8 +196,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Link to fron end]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -226,8 +214,6 @@ Feel free to check the [issues page](https://github.com/sumon766/ruby/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please like, share and contact for a chat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -236,25 +222,7 @@ If you like this project please like, share and contact for a chat
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank my coding partner and microverse
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [How do we install ruby]
-<!--
-- **[Question_2]**
-
-  - [Answer_2] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
